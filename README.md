@@ -1,8 +1,4 @@
-## Vamos criar um README.md incrível para o seu projeto!
-
-**Aqui está uma sugestão de como você pode estruturar o seu README.md, incorporando os elementos mais importantes e personalizando-o para a sua aplicação:**
-
-```markdown
+projeto de aprendizado imersão alura Dev google gemini
 # Aplicação de Pesquisa de Pokémon
 
 **Descrição:**
